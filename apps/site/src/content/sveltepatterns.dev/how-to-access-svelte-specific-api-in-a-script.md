@@ -3,8 +3,6 @@ title: How To Access Svelte Specific Api In A Script
 category: faq
 ---
 
-# How To Access Svelte Specific Api In A Script
-
 ## Describe the problem
 
 When you need to run a script that uses Svelte-specific features, such as:

@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Naming Convention
-
 ## Explicit $effect dependencies
 
 ```svelte

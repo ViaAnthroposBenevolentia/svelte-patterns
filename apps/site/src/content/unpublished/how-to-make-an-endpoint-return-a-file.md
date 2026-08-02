@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Make An Endpoint Return A File
-
 ## Describe the problem
 
 Common uses are `manifest.json`, an image, svg.

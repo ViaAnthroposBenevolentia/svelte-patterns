@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Basic building Blocks of an App
-
 auth - lucia/ better-auth
 upload/download -
 [[How To Download Content]]

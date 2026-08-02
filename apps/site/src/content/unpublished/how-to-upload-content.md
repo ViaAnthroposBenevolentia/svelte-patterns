@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Upload Content
-
 ### Via S3
 
 - https://github.com/sveltejs/examples/tree/main/examples/sveltekit-file-uploads-s3

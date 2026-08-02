@@ -4,8 +4,6 @@ category: concept
 tags: anatomy of
 ---
 
-# Anatomy of a UI Component Library
-
 ::: info TL;DR
 UI libraries range from plug-and-play components to low-level building blocks. Choose based on:
 

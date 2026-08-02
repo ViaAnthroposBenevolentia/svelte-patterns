@@ -3,8 +3,6 @@ title: Examples
 category: general
 ---
 
-# Examples
-
 ## Comparative Examples
 
 - https://component-party.dev/?f=svelte5-react

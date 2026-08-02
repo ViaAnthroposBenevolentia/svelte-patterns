@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Docker
-
 ```dockerfile
 FROM node:22-alpine AS base
 

@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Websocket
-
 ## Describe the problem
 
 https://github.com/sveltejs/kit/issues/1491#issuecomment-3407427718

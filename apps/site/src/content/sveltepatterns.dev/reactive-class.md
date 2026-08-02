@@ -3,8 +3,6 @@ title: Reactive Class
 category: concept
 ---
 
-# Reactive Class
-
 ## What To Do
 
 ### Use `current` as the main output name

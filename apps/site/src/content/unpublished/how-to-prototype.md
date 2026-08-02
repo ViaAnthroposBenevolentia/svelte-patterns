@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Prototype
-
 ## Describe the problem
 
 :::code-group

@@ -3,8 +3,6 @@ title: Asking Questions
 category: meta
 ---
 
-# Asking Questions
-
 ## Use Code Blocks
 
 ````

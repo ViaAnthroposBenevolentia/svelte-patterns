@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Animation
-
 ## Describe the problem
 
 https://animation-svelte.vercel.app/

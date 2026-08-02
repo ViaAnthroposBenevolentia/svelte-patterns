@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Cache
-
 ## Describe the problem
 
 server side locals

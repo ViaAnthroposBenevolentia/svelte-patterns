@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# View Transition Api
-
 <script setup>
 import SvelteRepl from '../../Svelte.vue'
 import SvelteLabRepl from '../../SvelteLab.vue'

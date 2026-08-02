@@ -3,8 +3,6 @@ title: Visual Studio Code (vscode)
 category: concept
 ---
 
-# Visual Studio Code (vscode)
-
 This page aims to gather all resources related to `Svelte` and `VS Code`.
 
 ## Install The Official Extension

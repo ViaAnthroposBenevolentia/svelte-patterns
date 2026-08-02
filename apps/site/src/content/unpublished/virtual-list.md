@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Virtual List
-
 ## Describe the problem
 
 ## Reference

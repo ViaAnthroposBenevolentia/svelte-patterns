@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Katex
-
 ## Describe the problem
 
 ```sh

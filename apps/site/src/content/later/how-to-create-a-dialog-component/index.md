@@ -2,8 +2,6 @@
 title: How To Create A Dialog Component
 ---
 
-# How To Create A Dialog Component
-
 ## Single Component
 
 It's simple and easy to grok. But both the button and the body are linked together.

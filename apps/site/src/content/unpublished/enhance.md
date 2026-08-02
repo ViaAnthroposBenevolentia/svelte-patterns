@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Enhance
-
 ## Describe the problem
 
 ## Reference

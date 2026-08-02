@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Patch
-
 ## Describe the problem
 
 ### pnpm patch

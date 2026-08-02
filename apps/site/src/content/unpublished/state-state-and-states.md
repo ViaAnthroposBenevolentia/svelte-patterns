@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# State, State, And States
-
 shared-stated.md
 why-globals-suck.md
 how-to-encapsulate-reactive-state.md

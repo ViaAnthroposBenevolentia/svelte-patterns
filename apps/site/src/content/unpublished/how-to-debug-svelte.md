@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# How To Debug Svelte
-
 ## Describe the problem
 
 - vsc breakpoints

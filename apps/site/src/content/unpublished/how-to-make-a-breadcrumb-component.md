@@ -4,8 +4,6 @@ publish: false
 tags: component
 ---
 
-# How To Make A Breadcrumb Component
-
 <script setup>
 import SveltelabRepl from '../../Sveltelab.vue'
 import A from './how-to-make-a-breadcrumb-component/+layout.svelte?raw'

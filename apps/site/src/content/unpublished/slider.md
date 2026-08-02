@@ -4,8 +4,6 @@ publish: false
 tags: component
 ---
 
-# Slider
-
 ## todo
 
 - left/right thumb on the wrong spot when toggling `range`

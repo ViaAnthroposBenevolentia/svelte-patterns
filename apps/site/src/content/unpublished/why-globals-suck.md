@@ -4,8 +4,6 @@ publish: false
 tags:
 ---
 
-# Why Globals Suck
-
 ## Describe the problem
 
 https://discord.com/channels/457912077277855764/1440299904168759366
